@@ -1,0 +1,6 @@
+{
+    "go.toolsEnvVars": {
+        "GOROOT": "/home/adam/.cache/tinygo/goroot-a39f9e301917ced3f859242bc5e022af594f7e126761b24b946fbe34fe58e83e",
+        "GOFLAGS": "-tags=cortexm,baremetal,linux,arm,nrf51822,nrf51,nrf,microbit,tinygo,gc.conservative,scheduler.tasks"
+    }
+}
